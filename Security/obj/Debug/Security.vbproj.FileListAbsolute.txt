@@ -1,0 +1,433 @@
+C:\Users\hengu\Downloads\Security\Security\obj\Debug\Security.vbproj.AssemblyReference.cache
+C:\Users\hengu\Downloads\Security\Security\obj\Debug\Security.vbproj.SuggestedBindingRedirects.cache
+C:\Users\hengu\Downloads\Security\Security\obj\Debug\Security.AlteraSenha.resources
+C:\Users\hengu\Downloads\Security\Security\obj\Debug\Security.Cadastro.resources
+C:\Users\hengu\Downloads\Security\Security\obj\Debug\Security.Configuracoes.resources
+C:\Users\hengu\Downloads\Security\Security\obj\Debug\Security.EditarCadastro.resources
+C:\Users\hengu\Downloads\Security\Security\obj\Debug\Security.Ficha.resources
+C:\Users\hengu\Downloads\Security\Security\obj\Debug\Security.Inicio.resources
+C:\Users\hengu\Downloads\Security\Security\obj\Debug\Security.Login.resources
+C:\Users\hengu\Downloads\Security\Security\obj\Debug\Security.Resources.resources
+C:\Users\hengu\Downloads\Security\Security\obj\Debug\Security.Programa.resources
+C:\Users\hengu\Downloads\Security\Security\obj\Debug\Security.ProgramaAtend.resources
+C:\Users\hengu\Downloads\Security\Security\obj\Debug\Security.Recupera.resources
+C:\Users\hengu\Downloads\Security\Security\obj\Debug\Security.RegistroQueixa.resources
+C:\Users\hengu\Downloads\Security\Security\obj\Debug\Security.vbproj.GenerateResource.cache
+C:\Users\hengu\Downloads\Security\Security\obj\Debug\Security.vbproj.CoreCompileInputs.cache
+C:\Users\hengu\Downloads\Security\Security\bin\Debug\Security.exe.config
+C:\Users\hengu\Downloads\Security\Security\bin\Debug\Security.exe
+C:\Users\hengu\Downloads\Security\Security\bin\Debug\Security.pdb
+C:\Users\hengu\Downloads\Security\Security\bin\Debug\Security.xml
+C:\Users\hengu\Downloads\Security\Security\obj\Debug\Security.exe
+C:\Users\hengu\Downloads\Security\Security\obj\Debug\Security.xml
+C:\Users\hengu\Downloads\Security\Security\obj\Debug\Security.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\bin\Debug\Security.exe.config
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\bin\Debug\Security.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\bin\Debug\Security.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\bin\Debug\Security.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\obj\Debug\Security.vbproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\obj\Debug\Security.vbproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\obj\Debug\Security.AlteraSenha.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\obj\Debug\Security.Cadastro.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\obj\Debug\Security.Configuracoes.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\obj\Debug\Security.EditarCadastro.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\obj\Debug\Security.Ficha.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\obj\Debug\Security.Inicio.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\obj\Debug\Security.Login.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\obj\Debug\Security.Resources.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\obj\Debug\Security.Programa.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\obj\Debug\Security.ProgramaAtend.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\obj\Debug\Security.Recupera.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\obj\Debug\Security.RegistroQueixa.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\obj\Debug\Security.vbproj.GenerateResource.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\obj\Debug\Security.vbproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\obj\Debug\Security.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\obj\Debug\Security.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\obj\Debug\Security.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\obj\Debug\Security.ConfirmarSenha.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\obj\Debug\Security.EditarSenha.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\obj\Debug\Security.CadastrarOficial.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\obj\Debug\Security.ProgramaPlan.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\obj\Debug\Security.Relatorio.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\bin\Debug\Security.exe.config
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\bin\Debug\Security.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\bin\Debug\Security.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\bin\Debug\Security.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\bin\Debug\EnvDTE.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\bin\Debug\stdole.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\obj\Debug\Security.vbproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\obj\Debug\Security.vbproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\obj\Debug\Security.AlteraSenha.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\obj\Debug\Security.CadastrarOficial.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\obj\Debug\Security.Cadastro.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\obj\Debug\Security.Configuracoes.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\obj\Debug\Security.ConfirmarSenha.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\obj\Debug\Security.EditarCadastro.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\obj\Debug\Security.EditarSenha.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\obj\Debug\Security.Ficha.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\obj\Debug\Security.Inicio.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\obj\Debug\Security.Login.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\obj\Debug\Security.Resources.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\obj\Debug\Security.Programa.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\obj\Debug\Security.ProgramaAtend.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\obj\Debug\Security.ProgramaPlan.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\obj\Debug\Security.Recupera.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\obj\Debug\Security.RegistroQueixa.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\obj\Debug\Security.Relatorio.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\obj\Debug\Security.RelatorioGerado.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\obj\Debug\Security.vbproj.GenerateResource.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\obj\Debug\Security.vbproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\obj\Debug\Security.vbproj.CopyComplete
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\obj\Debug\Security.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\obj\Debug\Security.xml
+C:\Users\gabri\OneDrive\Área de Trabalho\Biel\Estudos\FATEC\2\Security\Security\Security\obj\Debug\Security.pdb
+D:\Downloads HD\Security\Security\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Downloads HD\Security\Security\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Downloads HD\Security\Security\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Downloads HD\Security\Security\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Downloads HD\Security\Security\bin\Debug\Security.exe.config
+D:\Downloads HD\Security\Security\bin\Debug\Security.exe
+D:\Downloads HD\Security\Security\bin\Debug\Security.pdb
+D:\Downloads HD\Security\Security\bin\Debug\Security.xml
+D:\Downloads HD\Security\Security\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Downloads HD\Security\Security\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Downloads HD\Security\Security\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Downloads HD\Security\Security\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Downloads HD\Security\Security\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Downloads HD\Security\Security\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Downloads HD\Security\Security\bin\Debug\EnvDTE.dll
+D:\Downloads HD\Security\Security\bin\Debug\stdole.dll
+D:\Downloads HD\Security\Security\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Downloads HD\Security\Security\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Downloads HD\Security\Security\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Downloads HD\Security\Security\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Downloads HD\Security\Security\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Downloads HD\Security\Security\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Downloads HD\Security\Security\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Downloads HD\Security\Security\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Downloads HD\Security\Security\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Downloads HD\Security\Security\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Downloads HD\Security\Security\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Downloads HD\Security\Security\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Downloads HD\Security\Security\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Downloads HD\Security\Security\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Downloads HD\Security\Security\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Downloads HD\Security\Security\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Downloads HD\Security\Security\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Downloads HD\Security\Security\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Downloads HD\Security\Security\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Downloads HD\Security\Security\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Downloads HD\Security\Security\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Downloads HD\Security\Security\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Downloads HD\Security\Security\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Downloads HD\Security\Security\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Downloads HD\Security\Security\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Downloads HD\Security\Security\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Downloads HD\Security\Security\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Downloads HD\Security\Security\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Downloads HD\Security\Security\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Downloads HD\Security\Security\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Downloads HD\Security\Security\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Downloads HD\Security\Security\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Downloads HD\Security\Security\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Downloads HD\Security\Security\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Downloads HD\Security\Security\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Downloads HD\Security\Security\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Downloads HD\Security\Security\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Downloads HD\Security\Security\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Downloads HD\Security\Security\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Downloads HD\Security\Security\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Downloads HD\Security\Security\obj\Debug\Security.vbproj.AssemblyReference.cache
+D:\Downloads HD\Security\Security\obj\Debug\Security.vbproj.SuggestedBindingRedirects.cache
+D:\Downloads HD\Security\Security\obj\Debug\Security.AlteraSenha.resources
+D:\Downloads HD\Security\Security\obj\Debug\Security.CadastrarOficial.resources
+D:\Downloads HD\Security\Security\obj\Debug\Security.Cadastro.resources
+D:\Downloads HD\Security\Security\obj\Debug\Security.Configuracoes.resources
+D:\Downloads HD\Security\Security\obj\Debug\Security.ConfirmarSenha.resources
+D:\Downloads HD\Security\Security\obj\Debug\Security.EditarCadastro.resources
+D:\Downloads HD\Security\Security\obj\Debug\Security.EditarSenha.resources
+D:\Downloads HD\Security\Security\obj\Debug\Security.Ficha.resources
+D:\Downloads HD\Security\Security\obj\Debug\Security.Inicio.resources
+D:\Downloads HD\Security\Security\obj\Debug\Security.Login.resources
+D:\Downloads HD\Security\Security\obj\Debug\Security.Resources.resources
+D:\Downloads HD\Security\Security\obj\Debug\Security.Programa.resources
+D:\Downloads HD\Security\Security\obj\Debug\Security.ProgramaAtend.resources
+D:\Downloads HD\Security\Security\obj\Debug\Security.ProgramaPlan.resources
+D:\Downloads HD\Security\Security\obj\Debug\Security.Recupera.resources
+D:\Downloads HD\Security\Security\obj\Debug\Security.RegistroQueixa.resources
+D:\Downloads HD\Security\Security\obj\Debug\Security.Relatorio.resources
+D:\Downloads HD\Security\Security\obj\Debug\Security.RelatorioGerado.resources
+D:\Downloads HD\Security\Security\obj\Debug\Security.vbproj.GenerateResource.cache
+D:\Downloads HD\Security\Security\obj\Debug\Security.vbproj.CoreCompileInputs.cache
+D:\Downloads HD\Security\Security\obj\Debug\Security.vbproj.CopyComplete
+D:\Downloads HD\Security\Security\obj\Debug\Security.exe
+D:\Downloads HD\Security\Security\obj\Debug\Security.xml
+D:\Downloads HD\Security\Security\obj\Debug\Security.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\bin\Debug\EnvDTE.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\bin\Debug\stdole.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\obj\Debug\Security.RelatorioGerado.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Security\Security\obj\Debug\Security.vbproj.CopyComplete
+D:\Downloads HD\Security atual\Security\obj\Debug\Security.vbproj.AssemblyReference.cache
+D:\Downloads HD\Security atual\Security\obj\Debug\Security.vbproj.SuggestedBindingRedirects.cache
+D:\Downloads HD\Security atual\Security\obj\Debug\Security.AlteraSenha.resources
+D:\Downloads HD\Security atual\Security\obj\Debug\Security.CadastrarOficial.resources
+D:\Downloads HD\Security atual\Security\obj\Debug\Security.Cadastro.resources
+D:\Downloads HD\Security atual\Security\obj\Debug\Security.Configuracoes.resources
+D:\Downloads HD\Security atual\Security\obj\Debug\Security.ConfirmarSenha.resources
+D:\Downloads HD\Security atual\Security\obj\Debug\Security.EditarCadastro.resources
+D:\Downloads HD\Security atual\Security\obj\Debug\Security.EditarSenha.resources
+D:\Downloads HD\Security atual\Security\obj\Debug\Security.Ficha.resources
+D:\Downloads HD\Security atual\Security\obj\Debug\Security.Inicio.resources
+D:\Downloads HD\Security atual\Security\obj\Debug\Security.Login.resources
+D:\Downloads HD\Security atual\Security\obj\Debug\Security.Resources.resources
+D:\Downloads HD\Security atual\Security\obj\Debug\Security.Programa.resources
+D:\Downloads HD\Security atual\Security\obj\Debug\Security.ProgramaAtend.resources
+D:\Downloads HD\Security atual\Security\obj\Debug\Security.ProgramaPlan.resources
+D:\Downloads HD\Security atual\Security\obj\Debug\Security.Recupera.resources
+D:\Downloads HD\Security atual\Security\obj\Debug\Security.RegistroQueixa.resources
+D:\Downloads HD\Security atual\Security\obj\Debug\Security.Relatorio.resources
+D:\Downloads HD\Security atual\Security\obj\Debug\Security.RelatorioGerado.resources
+D:\Downloads HD\Security atual\Security\obj\Debug\Security.vbproj.GenerateResource.cache
+D:\Downloads HD\Security atual\Security\obj\Debug\Security.vbproj.CoreCompileInputs.cache
+D:\Downloads HD\Security atual\Security\obj\Debug\Security.exe
+D:\Downloads HD\Security atual\Security\obj\Debug\Security.xml
+D:\Downloads HD\Security atual\Security\obj\Debug\Security.pdb
+D:\Downloads HD\Security atual\Security\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Downloads HD\Security atual\Security\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Downloads HD\Security atual\Security\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Downloads HD\Security atual\Security\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Downloads HD\Security atual\Security\bin\Debug\Security.exe.config
+D:\Downloads HD\Security atual\Security\bin\Debug\Security.exe
+D:\Downloads HD\Security atual\Security\bin\Debug\Security.pdb
+D:\Downloads HD\Security atual\Security\bin\Debug\Security.xml
+D:\Downloads HD\Security atual\Security\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Downloads HD\Security atual\Security\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Downloads HD\Security atual\Security\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Downloads HD\Security atual\Security\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Downloads HD\Security atual\Security\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Downloads HD\Security atual\Security\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Downloads HD\Security atual\Security\bin\Debug\EnvDTE.dll
+D:\Downloads HD\Security atual\Security\bin\Debug\stdole.dll
+D:\Downloads HD\Security atual\Security\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Downloads HD\Security atual\Security\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Downloads HD\Security atual\Security\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Downloads HD\Security atual\Security\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Downloads HD\Security atual\Security\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Downloads HD\Security atual\Security\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Downloads HD\Security atual\Security\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Downloads HD\Security atual\Security\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Downloads HD\Security atual\Security\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Downloads HD\Security atual\Security\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Downloads HD\Security atual\Security\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Downloads HD\Security atual\Security\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Downloads HD\Security atual\Security\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Downloads HD\Security atual\Security\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Downloads HD\Security atual\Security\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Downloads HD\Security atual\Security\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Downloads HD\Security atual\Security\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Downloads HD\Security atual\Security\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Downloads HD\Security atual\Security\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Downloads HD\Security atual\Security\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Downloads HD\Security atual\Security\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Downloads HD\Security atual\Security\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Downloads HD\Security atual\Security\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Downloads HD\Security atual\Security\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Downloads HD\Security atual\Security\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Downloads HD\Security atual\Security\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Downloads HD\Security atual\Security\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Downloads HD\Security atual\Security\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Downloads HD\Security atual\Security\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Downloads HD\Security atual\Security\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Downloads HD\Security atual\Security\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Downloads HD\Security atual\Security\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Downloads HD\Security atual\Security\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Downloads HD\Security atual\Security\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Downloads HD\Security atual\Security\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Downloads HD\Security atual\Security\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Downloads HD\Security atual\Security\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Downloads HD\Security atual\Security\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Downloads HD\Security atual\Security\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Downloads HD\Security atual\Security\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Downloads HD\Security atual\Security\obj\Debug\Security.vbproj.CopyComplete
+C:\Users\gabri\OneDrive\Documentos\Security\Security\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\gabri\OneDrive\Documentos\Security\Security\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\gabri\OneDrive\Documentos\Security\Security\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\gabri\OneDrive\Documentos\Security\Security\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\gabri\OneDrive\Documentos\Security\Security\bin\Debug\Security.exe.config
+C:\Users\gabri\OneDrive\Documentos\Security\Security\bin\Debug\Security.exe
+C:\Users\gabri\OneDrive\Documentos\Security\Security\bin\Debug\Security.pdb
+C:\Users\gabri\OneDrive\Documentos\Security\Security\bin\Debug\Security.xml
+C:\Users\gabri\OneDrive\Documentos\Security\Security\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\gabri\OneDrive\Documentos\Security\Security\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\gabri\OneDrive\Documentos\Security\Security\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\gabri\OneDrive\Documentos\Security\Security\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\gabri\OneDrive\Documentos\Security\Security\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\gabri\OneDrive\Documentos\Security\Security\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\gabri\OneDrive\Documentos\Security\Security\bin\Debug\EnvDTE.dll
+C:\Users\gabri\OneDrive\Documentos\Security\Security\bin\Debug\stdole.dll
+C:\Users\gabri\OneDrive\Documentos\Security\Security\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gabri\OneDrive\Documentos\Security\Security\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gabri\OneDrive\Documentos\Security\Security\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gabri\OneDrive\Documentos\Security\Security\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gabri\OneDrive\Documentos\Security\Security\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gabri\OneDrive\Documentos\Security\Security\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gabri\OneDrive\Documentos\Security\Security\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gabri\OneDrive\Documentos\Security\Security\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gabri\OneDrive\Documentos\Security\Security\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gabri\OneDrive\Documentos\Security\Security\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\gabri\OneDrive\Documentos\Security\Security\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gabri\OneDrive\Documentos\Security\Security\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gabri\OneDrive\Documentos\Security\Security\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gabri\OneDrive\Documentos\Security\Security\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gabri\OneDrive\Documentos\Security\Security\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gabri\OneDrive\Documentos\Security\Security\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gabri\OneDrive\Documentos\Security\Security\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gabri\OneDrive\Documentos\Security\Security\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gabri\OneDrive\Documentos\Security\Security\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gabri\OneDrive\Documentos\Security\Security\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\gabri\OneDrive\Documentos\Security\Security\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gabri\OneDrive\Documentos\Security\Security\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gabri\OneDrive\Documentos\Security\Security\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gabri\OneDrive\Documentos\Security\Security\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gabri\OneDrive\Documentos\Security\Security\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gabri\OneDrive\Documentos\Security\Security\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gabri\OneDrive\Documentos\Security\Security\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gabri\OneDrive\Documentos\Security\Security\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gabri\OneDrive\Documentos\Security\Security\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gabri\OneDrive\Documentos\Security\Security\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\gabri\OneDrive\Documentos\Security\Security\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gabri\OneDrive\Documentos\Security\Security\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gabri\OneDrive\Documentos\Security\Security\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gabri\OneDrive\Documentos\Security\Security\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gabri\OneDrive\Documentos\Security\Security\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gabri\OneDrive\Documentos\Security\Security\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gabri\OneDrive\Documentos\Security\Security\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gabri\OneDrive\Documentos\Security\Security\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gabri\OneDrive\Documentos\Security\Security\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gabri\OneDrive\Documentos\Security\Security\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\gabri\OneDrive\Documentos\Security\Security\obj\Debug\Security.vbproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Documentos\Security\Security\obj\Debug\Security.vbproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\OneDrive\Documentos\Security\Security\obj\Debug\Security.AlteraSenha.resources
+C:\Users\gabri\OneDrive\Documentos\Security\Security\obj\Debug\Security.CadastrarOficial.resources
+C:\Users\gabri\OneDrive\Documentos\Security\Security\obj\Debug\Security.Cadastro.resources
+C:\Users\gabri\OneDrive\Documentos\Security\Security\obj\Debug\Security.Configuracoes.resources
+C:\Users\gabri\OneDrive\Documentos\Security\Security\obj\Debug\Security.ConfirmarSenha.resources
+C:\Users\gabri\OneDrive\Documentos\Security\Security\obj\Debug\Security.EditarCadastro.resources
+C:\Users\gabri\OneDrive\Documentos\Security\Security\obj\Debug\Security.EditarSenha.resources
+C:\Users\gabri\OneDrive\Documentos\Security\Security\obj\Debug\Security.Ficha.resources
+C:\Users\gabri\OneDrive\Documentos\Security\Security\obj\Debug\Security.Inicio.resources
+C:\Users\gabri\OneDrive\Documentos\Security\Security\obj\Debug\Security.Login.resources
+C:\Users\gabri\OneDrive\Documentos\Security\Security\obj\Debug\Security.Resources.resources
+C:\Users\gabri\OneDrive\Documentos\Security\Security\obj\Debug\Security.Programa.resources
+C:\Users\gabri\OneDrive\Documentos\Security\Security\obj\Debug\Security.ProgramaAtend.resources
+C:\Users\gabri\OneDrive\Documentos\Security\Security\obj\Debug\Security.ProgramaPlan.resources
+C:\Users\gabri\OneDrive\Documentos\Security\Security\obj\Debug\Security.Recupera.resources
+C:\Users\gabri\OneDrive\Documentos\Security\Security\obj\Debug\Security.RegistroQueixa.resources
+C:\Users\gabri\OneDrive\Documentos\Security\Security\obj\Debug\Security.Relatorio.resources
+C:\Users\gabri\OneDrive\Documentos\Security\Security\obj\Debug\Security.RelatorioGerado.resources
+C:\Users\gabri\OneDrive\Documentos\Security\Security\obj\Debug\Security.vbproj.GenerateResource.cache
+C:\Users\gabri\OneDrive\Documentos\Security\Security\obj\Debug\Security.vbproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documentos\Security\Security\obj\Debug\Security.vbproj.CopyComplete
+C:\Users\gabri\OneDrive\Documentos\Security\Security\obj\Debug\Security.exe
+C:\Users\gabri\OneDrive\Documentos\Security\Security\obj\Debug\Security.xml
+C:\Users\gabri\OneDrive\Documentos\Security\Security\obj\Debug\Security.pdb
