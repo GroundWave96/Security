@@ -1,0 +1,1518 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Security
+</name>
+</assembly>
+<members>
+<member name="T:Security.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Security.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Security.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Security.My.Resources.Resources.check">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Security.My.Resources.Resources.close">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Security.My.Resources.Resources.deleteDGV">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Security.My.Resources.Resources.edit_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Security.My.Resources.Resources.editIco">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Security.My.Resources.Resources.email">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Security.My.Resources.Resources.formsb">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Security.My.Resources.Resources.formsIco">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Security.My.Resources.Resources.hide">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Security.My.Resources.Resources.home">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Security.My.Resources.Resources.home__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Security.My.Resources.Resources.homeb">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Security.My.Resources.Resources.homeIco">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Security.My.Resources.Resources.id_card">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Security.My.Resources.Resources.id_cardred">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Security.My.Resources.Resources.location">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Security.My.Resources.Resources.logoIco">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:Security.My.Resources.Resources.logoLogin">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Security.My.Resources.Resources.LogoNoBackground">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Security.My.Resources.Resources.logoutIco">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Security.My.Resources.Resources.magnifier">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Security.My.Resources.Resources.mailbox">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Security.My.Resources.Resources.minimize">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Security.My.Resources.Resources.padlock">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Security.My.Resources.Resources.pencilb">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Security.My.Resources.Resources.pencilDGV">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Security.My.Resources.Resources.pencilIco">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Security.My.Resources.Resources.police_hatb">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Security.My.Resources.Resources.policehatIco">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Security.My.Resources.Resources.settingsb">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Security.My.Resources.Resources.settingsIco">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Security.My.Resources.Resources.telephone">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Security.My.Resources.Resources.uncheck">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Security.My.Resources.Resources.user">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Security.My.Resources.Resources.view">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:Security.Correios.SQLException">
+<remarks/>
+</member>
+<member name="P:Security.Correios.SQLException.errorCode">
+<remarks/>
+</member>
+<member name="P:Security.Correios.SQLException.errorCodeSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.SQLException.sQLState">
+<remarks/>
+</member>
+<member name="P:Security.Correios.SQLException.message">
+<remarks/>
+</member>
+<member name="T:Security.Correios.servicoAdicionalXML">
+<remarks/>
+</member>
+<member name="P:Security.Correios.servicoAdicionalXML.categoria">
+<remarks/>
+</member>
+<member name="P:Security.Correios.servicoAdicionalXML.codigo">
+<remarks/>
+</member>
+<member name="P:Security.Correios.servicoAdicionalXML.descricao">
+<remarks/>
+</member>
+<member name="P:Security.Correios.servicoAdicionalXML.maximoValorDeclarado">
+<remarks/>
+</member>
+<member name="P:Security.Correios.servicoAdicionalXML.maximoValorDeclaradoSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.servicoAdicionalXML.minimoValorDeclarado">
+<remarks/>
+</member>
+<member name="P:Security.Correios.servicoAdicionalXML.minimoValorDeclaradoSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.servicoAdicionalXML.sigla">
+<remarks/>
+</member>
+<member name="T:Security.Correios.Exception">
+<remarks/>
+</member>
+<member name="P:Security.Correios.Exception.message">
+<remarks/>
+</member>
+<member name="T:Security.Correios.ErroMontagemRelatorio">
+<remarks/>
+</member>
+<member name="P:Security.Correios.ErroMontagemRelatorio.message">
+<remarks/>
+</member>
+<member name="T:Security.Correios.objetoPostal">
+<remarks/>
+</member>
+<member name="P:Security.Correios.objetoPostal.codigoEtiqueta">
+<remarks/>
+</member>
+<member name="P:Security.Correios.objetoPostal.dataAtualizacaoCliente">
+<remarks/>
+</member>
+<member name="P:Security.Correios.objetoPostal.dataAtualizacaoClienteSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.objetoPostal.dataBloqueioObjeto">
+<remarks/>
+</member>
+<member name="P:Security.Correios.objetoPostal.dataBloqueioObjetoSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.objetoPostal.dataCancelamentoEtiqueta">
+<remarks/>
+</member>
+<member name="P:Security.Correios.objetoPostal.dataCancelamentoEtiquetaSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.objetoPostal.dataInclusao">
+<remarks/>
+</member>
+<member name="P:Security.Correios.objetoPostal.dataInclusaoSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.objetoPostal.objetoPostalPK">
+<remarks/>
+</member>
+<member name="P:Security.Correios.objetoPostal.plpNu">
+<remarks/>
+</member>
+<member name="P:Security.Correios.objetoPostal.plpNuSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.objetoPostal.preListaPostagem">
+<remarks/>
+</member>
+<member name="P:Security.Correios.objetoPostal.restricaoAerea">
+<remarks/>
+</member>
+<member name="P:Security.Correios.objetoPostal.restricaoAereaSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.objetoPostal.statusBloqueio">
+<remarks/>
+</member>
+<member name="P:Security.Correios.objetoPostal.statusEtiqueta">
+<remarks/>
+</member>
+<member name="P:Security.Correios.objetoPostal.statusEtiquetaSpecified">
+<remarks/>
+</member>
+<member name="T:Security.Correios.objetoPostalPK">
+<remarks/>
+</member>
+<member name="P:Security.Correios.objetoPostalPK.codigoEtiqueta">
+<remarks/>
+</member>
+<member name="P:Security.Correios.objetoPostalPK.plpNu">
+<remarks/>
+</member>
+<member name="T:Security.Correios.preListaPostagem">
+<remarks/>
+</member>
+<member name="P:Security.Correios.preListaPostagem.cartaoPostagem">
+<remarks/>
+</member>
+<member name="P:Security.Correios.preListaPostagem.conteudoProibido">
+<remarks/>
+</member>
+<member name="P:Security.Correios.preListaPostagem.conteudoProibidoSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.preListaPostagem.dataAtualizacaoCliente">
+<remarks/>
+</member>
+<member name="P:Security.Correios.preListaPostagem.dataAtualizacaoClienteSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.preListaPostagem.dataAtualizacaoSara">
+<remarks/>
+</member>
+<member name="P:Security.Correios.preListaPostagem.dataAtualizacaoSaraSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.preListaPostagem.dataFechamento">
+<remarks/>
+</member>
+<member name="P:Security.Correios.preListaPostagem.dataFechamentoSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.preListaPostagem.dataPostagem">
+<remarks/>
+</member>
+<member name="P:Security.Correios.preListaPostagem.dataPostagemSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.preListaPostagem.dataPostagemSara">
+<remarks/>
+</member>
+<member name="P:Security.Correios.preListaPostagem.dataPostagemSaraSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.preListaPostagem.objetosPostais">
+<remarks/>
+</member>
+<member name="P:Security.Correios.preListaPostagem.plpCliente">
+<remarks/>
+</member>
+<member name="P:Security.Correios.preListaPostagem.plpNu">
+<remarks/>
+</member>
+<member name="P:Security.Correios.preListaPostagem.plpXml">
+<remarks/>
+</member>
+<member name="P:Security.Correios.preListaPostagem.plpXmlRetorno">
+<remarks/>
+</member>
+<member name="P:Security.Correios.preListaPostagem.status">
+<remarks/>
+</member>
+<member name="P:Security.Correios.preListaPostagem.statusSpecified">
+<remarks/>
+</member>
+<member name="T:Security.Correios.cartaoPostagemERP">
+<remarks/>
+</member>
+<member name="P:Security.Correios.cartaoPostagemERP.codigoAdministrativo">
+<remarks/>
+</member>
+<member name="P:Security.Correios.cartaoPostagemERP.contratos">
+<remarks/>
+</member>
+<member name="P:Security.Correios.cartaoPostagemERP.dataAtualizacao">
+<remarks/>
+</member>
+<member name="P:Security.Correios.cartaoPostagemERP.dataAtualizacaoSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.cartaoPostagemERP.dataVigenciaFim">
+<remarks/>
+</member>
+<member name="P:Security.Correios.cartaoPostagemERP.dataVigenciaFimSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.cartaoPostagemERP.dataVigenciaInicio">
+<remarks/>
+</member>
+<member name="P:Security.Correios.cartaoPostagemERP.dataVigenciaInicioSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.cartaoPostagemERP.datajAtualizacao">
+<remarks/>
+</member>
+<member name="P:Security.Correios.cartaoPostagemERP.datajAtualizacaoSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.cartaoPostagemERP.datajVigenciaFim">
+<remarks/>
+</member>
+<member name="P:Security.Correios.cartaoPostagemERP.datajVigenciaFimSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.cartaoPostagemERP.datajVigenciaInicio">
+<remarks/>
+</member>
+<member name="P:Security.Correios.cartaoPostagemERP.datajVigenciaInicioSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.cartaoPostagemERP.descricaoStatusCartao">
+<remarks/>
+</member>
+<member name="P:Security.Correios.cartaoPostagemERP.descricaoUnidadePostagemGenerica">
+<remarks/>
+</member>
+<member name="P:Security.Correios.cartaoPostagemERP.horajAtualizacao">
+<remarks/>
+</member>
+<member name="P:Security.Correios.cartaoPostagemERP.horajAtualizacaoSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.cartaoPostagemERP.numero">
+<remarks/>
+</member>
+<member name="P:Security.Correios.cartaoPostagemERP.servicos">
+<remarks/>
+</member>
+<member name="P:Security.Correios.cartaoPostagemERP.statusCartaoPostagem">
+<remarks/>
+</member>
+<member name="P:Security.Correios.cartaoPostagemERP.statusCodigo">
+<remarks/>
+</member>
+<member name="P:Security.Correios.cartaoPostagemERP.unidadeGenerica">
+<remarks/>
+</member>
+<member name="P:Security.Correios.cartaoPostagemERP.unidadesPostagem">
+<remarks/>
+</member>
+<member name="T:Security.Correios.contratoERP">
+<remarks/>
+</member>
+<member name="P:Security.Correios.contratoERP.cartoesPostagem">
+<remarks/>
+</member>
+<member name="P:Security.Correios.contratoERP.cliente">
+<remarks/>
+</member>
+<member name="P:Security.Correios.contratoERP.codigoCliente">
+<remarks/>
+</member>
+<member name="P:Security.Correios.contratoERP.codigoDiretoria">
+<remarks/>
+</member>
+<member name="P:Security.Correios.contratoERP.contratoPK">
+<remarks/>
+</member>
+<member name="P:Security.Correios.contratoERP.dataAtualizacao">
+<remarks/>
+</member>
+<member name="P:Security.Correios.contratoERP.dataAtualizacaoSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.contratoERP.dataAtualizacaoDDMMYYYY">
+<remarks/>
+</member>
+<member name="P:Security.Correios.contratoERP.dataVigenciaFim">
+<remarks/>
+</member>
+<member name="P:Security.Correios.contratoERP.dataVigenciaFimSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.contratoERP.dataVigenciaFimDDMMYYYY">
+<remarks/>
+</member>
+<member name="P:Security.Correios.contratoERP.dataVigenciaInicio">
+<remarks/>
+</member>
+<member name="P:Security.Correios.contratoERP.dataVigenciaInicioSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.contratoERP.dataVigenciaInicioDDMMYYYY">
+<remarks/>
+</member>
+<member name="P:Security.Correios.contratoERP.datajAtualizacao">
+<remarks/>
+</member>
+<member name="P:Security.Correios.contratoERP.datajAtualizacaoSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.contratoERP.datajVigenciaFim">
+<remarks/>
+</member>
+<member name="P:Security.Correios.contratoERP.datajVigenciaFimSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.contratoERP.datajVigenciaInicio">
+<remarks/>
+</member>
+<member name="P:Security.Correios.contratoERP.datajVigenciaInicioSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.contratoERP.descricaoDiretoriaRegional">
+<remarks/>
+</member>
+<member name="P:Security.Correios.contratoERP.descricaoStatus">
+<remarks/>
+</member>
+<member name="P:Security.Correios.contratoERP.diretoriaRegional">
+<remarks/>
+</member>
+<member name="P:Security.Correios.contratoERP.horajAtualizacao">
+<remarks/>
+</member>
+<member name="P:Security.Correios.contratoERP.horajAtualizacaoSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.contratoERP.statusCodigo">
+<remarks/>
+</member>
+<member name="T:Security.Correios.clienteERP">
+<remarks/>
+</member>
+<member name="P:Security.Correios.clienteERP.cnpj">
+<remarks/>
+</member>
+<member name="P:Security.Correios.clienteERP.contratos">
+<remarks/>
+</member>
+<member name="P:Security.Correios.clienteERP.dataAtualizacao">
+<remarks/>
+</member>
+<member name="P:Security.Correios.clienteERP.dataAtualizacaoSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.clienteERP.datajAtualizacao">
+<remarks/>
+</member>
+<member name="P:Security.Correios.clienteERP.datajAtualizacaoSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.clienteERP.descricaoStatusCliente">
+<remarks/>
+</member>
+<member name="P:Security.Correios.clienteERP.gerenteConta">
+<remarks/>
+</member>
+<member name="P:Security.Correios.clienteERP.horajAtualizacao">
+<remarks/>
+</member>
+<member name="P:Security.Correios.clienteERP.horajAtualizacaoSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.clienteERP.id">
+<remarks/>
+</member>
+<member name="P:Security.Correios.clienteERP.inscricaoEstadual">
+<remarks/>
+</member>
+<member name="P:Security.Correios.clienteERP.nome">
+<remarks/>
+</member>
+<member name="P:Security.Correios.clienteERP.statusCodigo">
+<remarks/>
+</member>
+<member name="T:Security.Correios.gerenteConta">
+<remarks/>
+</member>
+<member name="P:Security.Correios.gerenteConta.clientesVisiveis">
+<remarks/>
+</member>
+<member name="P:Security.Correios.gerenteConta.dataAtualizacao">
+<remarks/>
+</member>
+<member name="P:Security.Correios.gerenteConta.dataAtualizacaoSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.gerenteConta.dataInclusao">
+<remarks/>
+</member>
+<member name="P:Security.Correios.gerenteConta.dataInclusaoSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.gerenteConta.dataSenha">
+<remarks/>
+</member>
+<member name="P:Security.Correios.gerenteConta.dataSenhaSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.gerenteConta.login">
+<remarks/>
+</member>
+<member name="P:Security.Correios.gerenteConta.matricula">
+<remarks/>
+</member>
+<member name="P:Security.Correios.gerenteConta.senha">
+<remarks/>
+</member>
+<member name="P:Security.Correios.gerenteConta.status">
+<remarks/>
+</member>
+<member name="P:Security.Correios.gerenteConta.statusSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.gerenteConta.tipoGerente">
+<remarks/>
+</member>
+<member name="P:Security.Correios.gerenteConta.tipoGerenteSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.gerenteConta.usuariosInstalacao">
+<remarks/>
+</member>
+<member name="P:Security.Correios.gerenteConta.validade">
+<remarks/>
+</member>
+<member name="T:Security.Correios.statusGerente">
+<remarks/>
+</member>
+<member name="F:Security.Correios.statusGerente.Ativo">
+<remarks/>
+</member>
+<member name="F:Security.Correios.statusGerente.Inativo">
+<remarks/>
+</member>
+<member name="T:Security.Correios.tipoGerente">
+<remarks/>
+</member>
+<member name="F:Security.Correios.tipoGerente.GerenteConta">
+<remarks/>
+</member>
+<member name="F:Security.Correios.tipoGerente.GerenteContaMaster">
+<remarks/>
+</member>
+<member name="T:Security.Correios.usuarioInstalacao">
+<remarks/>
+</member>
+<member name="P:Security.Correios.usuarioInstalacao.dataAtualizacao">
+<remarks/>
+</member>
+<member name="P:Security.Correios.usuarioInstalacao.dataAtualizacaoSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.usuarioInstalacao.dataInclusao">
+<remarks/>
+</member>
+<member name="P:Security.Correios.usuarioInstalacao.dataInclusaoSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.usuarioInstalacao.dataSenha">
+<remarks/>
+</member>
+<member name="P:Security.Correios.usuarioInstalacao.dataSenhaSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.usuarioInstalacao.gerenteMaster">
+<remarks/>
+</member>
+<member name="P:Security.Correios.usuarioInstalacao.hashSenha">
+<remarks/>
+</member>
+<member name="P:Security.Correios.usuarioInstalacao.id">
+<remarks/>
+</member>
+<member name="P:Security.Correios.usuarioInstalacao.idSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.usuarioInstalacao.login">
+<remarks/>
+</member>
+<member name="P:Security.Correios.usuarioInstalacao.nome">
+<remarks/>
+</member>
+<member name="P:Security.Correios.usuarioInstalacao.parametros">
+<remarks/>
+</member>
+<member name="P:Security.Correios.usuarioInstalacao.senha">
+<remarks/>
+</member>
+<member name="P:Security.Correios.usuarioInstalacao.status">
+<remarks/>
+</member>
+<member name="P:Security.Correios.usuarioInstalacao.statusSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.usuarioInstalacao.validade">
+<remarks/>
+</member>
+<member name="T:Security.Correios.parametroMaster">
+<remarks/>
+</member>
+<member name="P:Security.Correios.parametroMaster.prmCoParametro">
+<remarks/>
+</member>
+<member name="P:Security.Correios.parametroMaster.prmTxParametro">
+<remarks/>
+</member>
+<member name="P:Security.Correios.parametroMaster.prmTxValor">
+<remarks/>
+</member>
+<member name="T:Security.Correios.statusUsuario">
+<remarks/>
+</member>
+<member name="F:Security.Correios.statusUsuario.Ativo">
+<remarks/>
+</member>
+<member name="F:Security.Correios.statusUsuario.Inativo">
+<remarks/>
+</member>
+<member name="T:Security.Correios.contratoERPPK">
+<remarks/>
+</member>
+<member name="P:Security.Correios.contratoERPPK.diretoria">
+<remarks/>
+</member>
+<member name="P:Security.Correios.contratoERPPK.numero">
+<remarks/>
+</member>
+<member name="T:Security.Correios.unidadePostagemERP">
+<remarks/>
+</member>
+<member name="P:Security.Correios.unidadePostagemERP.diretoriaRegional">
+<remarks/>
+</member>
+<member name="P:Security.Correios.unidadePostagemERP.endereco">
+<remarks/>
+</member>
+<member name="P:Security.Correios.unidadePostagemERP.id">
+<remarks/>
+</member>
+<member name="P:Security.Correios.unidadePostagemERP.nome">
+<remarks/>
+</member>
+<member name="P:Security.Correios.unidadePostagemERP.status">
+<remarks/>
+</member>
+<member name="P:Security.Correios.unidadePostagemERP.tipo">
+<remarks/>
+</member>
+<member name="T:Security.Correios.enderecoERP">
+<remarks/>
+</member>
+<member name="P:Security.Correios.enderecoERP.bairro">
+<remarks/>
+</member>
+<member name="P:Security.Correios.enderecoERP.cep">
+<remarks/>
+</member>
+<member name="P:Security.Correios.enderecoERP.cidade">
+<remarks/>
+</member>
+<member name="P:Security.Correios.enderecoERP.complemento2">
+<remarks/>
+</member>
+<member name="P:Security.Correios.enderecoERP.end">
+<remarks/>
+</member>
+<member name="P:Security.Correios.enderecoERP.uf">
+<remarks/>
+</member>
+<member name="P:Security.Correios.enderecoERP.unidadesPostagem">
+<remarks/>
+</member>
+<member name="T:Security.Correios.servicoERP">
+<remarks/>
+</member>
+<member name="P:Security.Correios.servicoERP.codigo">
+<remarks/>
+</member>
+<member name="P:Security.Correios.servicoERP.dataAtualizacao">
+<remarks/>
+</member>
+<member name="P:Security.Correios.servicoERP.dataAtualizacaoSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.servicoERP.datajAtualizacao">
+<remarks/>
+</member>
+<member name="P:Security.Correios.servicoERP.datajAtualizacaoSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.servicoERP.descricao">
+<remarks/>
+</member>
+<member name="P:Security.Correios.servicoERP.horajAtualizacao">
+<remarks/>
+</member>
+<member name="P:Security.Correios.servicoERP.horajAtualizacaoSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.servicoERP.id">
+<remarks/>
+</member>
+<member name="P:Security.Correios.servicoERP.servicoSigep">
+<remarks/>
+</member>
+<member name="P:Security.Correios.servicoERP.servicosAdicionais">
+<remarks/>
+</member>
+<member name="P:Security.Correios.servicoERP.tipo1Codigo">
+<remarks/>
+</member>
+<member name="P:Security.Correios.servicoERP.tipo1Descricao">
+<remarks/>
+</member>
+<member name="P:Security.Correios.servicoERP.tipo2Codigo">
+<remarks/>
+</member>
+<member name="P:Security.Correios.servicoERP.tipo2Descricao">
+<remarks/>
+</member>
+<member name="P:Security.Correios.servicoERP.vigencia">
+<remarks/>
+</member>
+<member name="T:Security.Correios.servicoSigep">
+<remarks/>
+</member>
+<member name="P:Security.Correios.servicoSigep.categoriaServico">
+<remarks/>
+</member>
+<member name="P:Security.Correios.servicoSigep.categoriaServicoSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.servicoSigep.chancela">
+<remarks/>
+</member>
+<member name="P:Security.Correios.servicoSigep.descricao">
+<remarks/>
+</member>
+<member name="P:Security.Correios.servicoSigep.exigeDimensoes">
+<remarks/>
+</member>
+<member name="P:Security.Correios.servicoSigep.exigeDimensoesSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.servicoSigep.exigeValorCobrar">
+<remarks/>
+</member>
+<member name="P:Security.Correios.servicoSigep.exigeValorCobrarSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.servicoSigep.imitm">
+<remarks/>
+</member>
+<member name="P:Security.Correios.servicoSigep.pagamentoEntrega">
+<remarks/>
+</member>
+<member name="P:Security.Correios.servicoSigep.remessaAgrupada">
+<remarks/>
+</member>
+<member name="P:Security.Correios.servicoSigep.restricao">
+<remarks/>
+</member>
+<member name="P:Security.Correios.servicoSigep.restricaoSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.servicoSigep.servico">
+<remarks/>
+</member>
+<member name="P:Security.Correios.servicoSigep.servicoERP">
+<remarks/>
+</member>
+<member name="P:Security.Correios.servicoSigep.ssiCoCodigoPostal">
+<remarks/>
+</member>
+<member name="T:Security.Correios.categoriaServico">
+<remarks/>
+</member>
+<member name="F:Security.Correios.categoriaServico.SEM_CATEGORIA">
+<remarks/>
+</member>
+<member name="F:Security.Correios.categoriaServico.PAC">
+<remarks/>
+</member>
+<member name="F:Security.Correios.categoriaServico.SEDEX">
+<remarks/>
+</member>
+<member name="F:Security.Correios.categoriaServico.CARTA">
+<remarks/>
+</member>
+<member name="F:Security.Correios.categoriaServico.GRANDES_FORMATOS">
+<remarks/>
+</member>
+<member name="F:Security.Correios.categoriaServico.REVERSO">
+<remarks/>
+</member>
+<member name="T:Security.Correios.chancelaMaster">
+<remarks/>
+</member>
+<member name="P:Security.Correios.chancelaMaster.ativo">
+<remarks/>
+</member>
+<member name="P:Security.Correios.chancelaMaster.ativoSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.chancelaMaster.chancela">
+<remarks/>
+</member>
+<member name="P:Security.Correios.chancelaMaster.dataAtualizacao">
+<remarks/>
+</member>
+<member name="P:Security.Correios.chancelaMaster.dataAtualizacaoSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.chancelaMaster.descricao">
+<remarks/>
+</member>
+<member name="P:Security.Correios.chancelaMaster.id">
+<remarks/>
+</member>
+<member name="P:Security.Correios.chancelaMaster.idSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.chancelaMaster.servicosSigep">
+<remarks/>
+</member>
+<member name="T:Security.Correios.simNao">
+<remarks/>
+</member>
+<member name="F:Security.Correios.simNao.S">
+<remarks/>
+</member>
+<member name="F:Security.Correios.simNao.N">
+<remarks/>
+</member>
+<member name="T:Security.Correios.servicoAdicionalERP">
+<remarks/>
+</member>
+<member name="P:Security.Correios.servicoAdicionalERP.categoria">
+<remarks/>
+</member>
+<member name="P:Security.Correios.servicoAdicionalERP.codigo">
+<remarks/>
+</member>
+<member name="P:Security.Correios.servicoAdicionalERP.dataAtualizacao">
+<remarks/>
+</member>
+<member name="P:Security.Correios.servicoAdicionalERP.dataAtualizacaoSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.servicoAdicionalERP.datajAtualizacao">
+<remarks/>
+</member>
+<member name="P:Security.Correios.servicoAdicionalERP.datajAtualizacaoSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.servicoAdicionalERP.descricao">
+<remarks/>
+</member>
+<member name="P:Security.Correios.servicoAdicionalERP.horajAtualizacao">
+<remarks/>
+</member>
+<member name="P:Security.Correios.servicoAdicionalERP.horajAtualizacaoSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.servicoAdicionalERP.id">
+<remarks/>
+</member>
+<member name="P:Security.Correios.servicoAdicionalERP.idSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.servicoAdicionalERP.sigla">
+<remarks/>
+</member>
+<member name="P:Security.Correios.servicoAdicionalERP.valorDeclarado">
+<remarks/>
+</member>
+<member name="T:Security.Correios.valorDeclarado">
+<remarks/>
+</member>
+<member name="P:Security.Correios.valorDeclarado.maximo">
+<remarks/>
+</member>
+<member name="P:Security.Correios.valorDeclarado.maximoSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.valorDeclarado.minimo">
+<remarks/>
+</member>
+<member name="P:Security.Correios.valorDeclarado.minimoSpecified">
+<remarks/>
+</member>
+<member name="T:Security.Correios.vigenciaERP">
+<remarks/>
+</member>
+<member name="P:Security.Correios.vigenciaERP.dataFinal">
+<remarks/>
+</member>
+<member name="P:Security.Correios.vigenciaERP.dataFinalSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.vigenciaERP.dataInicial">
+<remarks/>
+</member>
+<member name="P:Security.Correios.vigenciaERP.dataInicialSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.vigenciaERP.datajFim">
+<remarks/>
+</member>
+<member name="P:Security.Correios.vigenciaERP.datajFimSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.vigenciaERP.datajIni">
+<remarks/>
+</member>
+<member name="P:Security.Correios.vigenciaERP.datajIniSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.vigenciaERP.id">
+<remarks/>
+</member>
+<member name="P:Security.Correios.vigenciaERP.idSpecified">
+<remarks/>
+</member>
+<member name="T:Security.Correios.statusPlp">
+<remarks/>
+</member>
+<member name="F:Security.Correios.statusPlp.Aberta">
+<remarks/>
+</member>
+<member name="F:Security.Correios.statusPlp.Fechada">
+<remarks/>
+</member>
+<member name="F:Security.Correios.statusPlp.Postada">
+<remarks/>
+</member>
+<member name="T:Security.Correios.statusObjetoPostal">
+<remarks/>
+</member>
+<member name="F:Security.Correios.statusObjetoPostal.EmBranco">
+<remarks/>
+</member>
+<member name="F:Security.Correios.statusObjetoPostal.Postado">
+<remarks/>
+</member>
+<member name="F:Security.Correios.statusObjetoPostal.Cancelado">
+<remarks/>
+</member>
+<member name="F:Security.Correios.statusObjetoPostal.Estorno">
+<remarks/>
+</member>
+<member name="T:Security.Correios.dimensaoTO">
+<remarks/>
+</member>
+<member name="P:Security.Correios.dimensaoTO.altura">
+<remarks/>
+</member>
+<member name="P:Security.Correios.dimensaoTO.comprimento">
+<remarks/>
+</member>
+<member name="P:Security.Correios.dimensaoTO.diametro">
+<remarks/>
+</member>
+<member name="P:Security.Correios.dimensaoTO.largura">
+<remarks/>
+</member>
+<member name="P:Security.Correios.dimensaoTO.peso">
+<remarks/>
+</member>
+<member name="P:Security.Correios.dimensaoTO.soma">
+<remarks/>
+</member>
+<member name="T:Security.Correios.medidaTO">
+<remarks/>
+</member>
+<member name="P:Security.Correios.medidaTO.maximo">
+<remarks/>
+</member>
+<member name="P:Security.Correios.medidaTO.maximoSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.medidaTO.minimo">
+<remarks/>
+</member>
+<member name="P:Security.Correios.medidaTO.minimoSpecified">
+<remarks/>
+</member>
+<member name="T:Security.Correios.embalagemLRSMaster">
+<remarks/>
+</member>
+<member name="P:Security.Correios.embalagemLRSMaster.codigo">
+<remarks/>
+</member>
+<member name="P:Security.Correios.embalagemLRSMaster.nome">
+<remarks/>
+</member>
+<member name="P:Security.Correios.embalagemLRSMaster.tipo">
+<remarks/>
+</member>
+<member name="T:Security.Correios.tipoEmbalagem">
+<remarks/>
+</member>
+<member name="F:Security.Correios.tipoEmbalagem.DE">
+<remarks/>
+</member>
+<member name="F:Security.Correios.tipoEmbalagem.PD">
+<remarks/>
+</member>
+<member name="F:Security.Correios.tipoEmbalagem.RL">
+<remarks/>
+</member>
+<member name="T:Security.Correios.statusCartao">
+<remarks/>
+</member>
+<member name="F:Security.Correios.statusCartao.Desconhecido">
+<remarks/>
+</member>
+<member name="F:Security.Correios.statusCartao.Normal">
+<remarks/>
+</member>
+<member name="F:Security.Correios.statusCartao.Suspenso">
+<remarks/>
+</member>
+<member name="F:Security.Correios.statusCartao.Cancelado">
+<remarks/>
+</member>
+<member name="F:Security.Correios.statusCartao.Irregular">
+<remarks/>
+</member>
+<member name="T:Security.Correios.valePostal">
+<remarks/>
+</member>
+<member name="P:Security.Correios.valePostal.cidNoCidade">
+<remarks/>
+</member>
+<member name="P:Security.Correios.valePostal.ctcCoAadministrativo">
+<remarks/>
+</member>
+<member name="P:Security.Correios.valePostal.ctcNuContrato">
+<remarks/>
+</member>
+<member name="P:Security.Correios.valePostal.ctcNuContratoSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.valePostal.ctcNuContratoEct">
+<remarks/>
+</member>
+<member name="P:Security.Correios.valePostal.ctcNuContratoEctSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.valePostal.cvpEdBairro">
+<remarks/>
+</member>
+<member name="P:Security.Correios.valePostal.cvpEdCliente">
+<remarks/>
+</member>
+<member name="P:Security.Correios.valePostal.cvpEdComplemento">
+<remarks/>
+</member>
+<member name="P:Security.Correios.valePostal.cvpEdNumero">
+<remarks/>
+</member>
+<member name="P:Security.Correios.valePostal.cvpNoCliente">
+<remarks/>
+</member>
+<member name="P:Security.Correios.valePostal.cvpNuCep">
+<remarks/>
+</member>
+<member name="P:Security.Correios.valePostal.cvpNuCepSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.valePostal.descricaoErro">
+<remarks/>
+</member>
+<member name="P:Security.Correios.valePostal.estSgEstado">
+<remarks/>
+</member>
+<member name="P:Security.Correios.valePostal.monVarTarifaAdicional">
+<remarks/>
+</member>
+<member name="P:Security.Correios.valePostal.monVarTarifaServico">
+<remarks/>
+</member>
+<member name="P:Security.Correios.valePostal.monVarValorDescontos">
+<remarks/>
+</member>
+<member name="P:Security.Correios.valePostal.monVarValorImposto">
+<remarks/>
+</member>
+<member name="P:Security.Correios.valePostal.prsCoProdutoServico">
+<remarks/>
+</member>
+<member name="P:Security.Correios.valePostal.prsCoProdutoServicoSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.valePostal.pveNu">
+<remarks/>
+</member>
+<member name="P:Security.Correios.valePostal.pveNuSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.valePostal.pveOrgNuAgencia">
+<remarks/>
+</member>
+<member name="P:Security.Correios.valePostal.pveOrgNuAgenciaSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.valePostal.pveOrgNuAgenciaDes">
+<remarks/>
+</member>
+<member name="P:Security.Correios.valePostal.pveOrgNuAgenciaDesSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.valePostal.pveOrgNuAgenciaOri">
+<remarks/>
+</member>
+<member name="P:Security.Correios.valePostal.pveOrgNuAgenciaOriSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.valePostal.retornaCodErro">
+<remarks/>
+</member>
+<member name="P:Security.Correios.valePostal.sitNoSituacao">
+<remarks/>
+</member>
+<member name="P:Security.Correios.valePostal.tlgTxDescricao">
+<remarks/>
+</member>
+<member name="P:Security.Correios.valePostal.vapDhTransacao">
+<remarks/>
+</member>
+<member name="P:Security.Correios.valePostal.vapDhTransacaoSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.valePostal.vapNuEtiquetaEncomenda">
+<remarks/>
+</member>
+<member name="P:Security.Correios.valePostal.vapVrCobradoEct">
+<remarks/>
+</member>
+<member name="P:Security.Correios.valePostal.vapVrCobradoEctSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.valePostal.vapVrNominal">
+<remarks/>
+</member>
+<member name="P:Security.Correios.valePostal.vapVrNominalSpecified">
+<remarks/>
+</member>
+<member name="T:Security.Correios.coletaSimultanea">
+<remarks/>
+</member>
+<member name="P:Security.Correios.coletaSimultanea.obj">
+<remarks/>
+</member>
+<member name="P:Security.Correios.coletaSimultanea.obs">
+<remarks/>
+</member>
+<member name="T:Security.Correios.coleta">
+<remarks/>
+</member>
+<member name="P:Security.Correios.coleta.cklist">
+<remarks/>
+</member>
+<member name="P:Security.Correios.coleta.descricao">
+<remarks/>
+</member>
+<member name="P:Security.Correios.coleta.documento">
+<remarks/>
+</member>
+<member name="P:Security.Correios.coleta.id_cliente">
+<remarks/>
+</member>
+<member name="P:Security.Correios.coleta.produto">
+<remarks/>
+</member>
+<member name="P:Security.Correios.coleta.remetente">
+<remarks/>
+</member>
+<member name="P:Security.Correios.coleta.tipo">
+<remarks/>
+</member>
+<member name="P:Security.Correios.coleta.valor_declarado">
+<remarks/>
+</member>
+<member name="T:Security.Correios.produto">
+<remarks/>
+</member>
+<member name="P:Security.Correios.produto.codigo">
+<remarks/>
+</member>
+<member name="P:Security.Correios.produto.qtd">
+<remarks/>
+</member>
+<member name="P:Security.Correios.produto.tipo">
+<remarks/>
+</member>
+<member name="T:Security.Correios.remetente">
+<remarks/>
+</member>
+<member name="P:Security.Correios.remetente.celular">
+<remarks/>
+</member>
+<member name="P:Security.Correios.remetente.ddd_celular">
+<remarks/>
+</member>
+<member name="P:Security.Correios.remetente.identificacao">
+<remarks/>
+</member>
+<member name="P:Security.Correios.remetente.sms">
+<remarks/>
+</member>
+<member name="T:Security.Correios.pessoa">
+<remarks/>
+</member>
+<member name="P:Security.Correios.pessoa.bairro">
+<remarks/>
+</member>
+<member name="P:Security.Correios.pessoa.cep">
+<remarks/>
+</member>
+<member name="P:Security.Correios.pessoa.cidade">
+<remarks/>
+</member>
+<member name="P:Security.Correios.pessoa.complemento">
+<remarks/>
+</member>
+<member name="P:Security.Correios.pessoa.ddd">
+<remarks/>
+</member>
+<member name="P:Security.Correios.pessoa.email">
+<remarks/>
+</member>
+<member name="P:Security.Correios.pessoa.logradouro">
+<remarks/>
+</member>
+<member name="P:Security.Correios.pessoa.nome">
+<remarks/>
+</member>
+<member name="P:Security.Correios.pessoa.numero">
+<remarks/>
+</member>
+<member name="P:Security.Correios.pessoa.referencia">
+<remarks/>
+</member>
+<member name="P:Security.Correios.pessoa.telefone">
+<remarks/>
+</member>
+<member name="P:Security.Correios.pessoa.uf">
+<remarks/>
+</member>
+<member name="T:Security.Correios.coletaReversa">
+<remarks/>
+</member>
+<member name="P:Security.Correios.coletaReversa.ag">
+<remarks/>
+</member>
+<member name="P:Security.Correios.coletaReversa.ar">
+<remarks/>
+</member>
+<member name="P:Security.Correios.coletaReversa.arSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.coletaReversa.cartao">
+<remarks/>
+</member>
+<member name="P:Security.Correios.coletaReversa.numero">
+<remarks/>
+</member>
+<member name="P:Security.Correios.coletaReversa.numeroSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.coletaReversa.obj_col">
+<remarks/>
+</member>
+<member name="P:Security.Correios.coletaReversa.servico_adicional">
+<remarks/>
+</member>
+<member name="T:Security.Correios.objeto">
+<remarks/>
+</member>
+<member name="P:Security.Correios.objeto.desc">
+<remarks/>
+</member>
+<member name="P:Security.Correios.objeto.entrega">
+<remarks/>
+</member>
+<member name="P:Security.Correios.objeto.id">
+<remarks/>
+</member>
+<member name="P:Security.Correios.objeto.item">
+<remarks/>
+</member>
+<member name="P:Security.Correios.objeto.num">
+<remarks/>
+</member>
+<member name="T:Security.Correios.servicoAdicionalTO">
+<remarks/>
+</member>
+<member name="P:Security.Correios.servicoAdicionalTO.categoria">
+<remarks/>
+</member>
+<member name="P:Security.Correios.servicoAdicionalTO.codigo">
+<remarks/>
+</member>
+<member name="P:Security.Correios.servicoAdicionalTO.sigla">
+<remarks/>
+</member>
+<member name="P:Security.Correios.servicoAdicionalTO.tipo">
+<remarks/>
+</member>
+<member name="T:Security.Correios.retornoCancelamento">
+<remarks/>
+</member>
+<member name="P:Security.Correios.retornoCancelamento.cod_erro">
+<remarks/>
+</member>
+<member name="P:Security.Correios.retornoCancelamento.codigo_administrativo">
+<remarks/>
+</member>
+<member name="P:Security.Correios.retornoCancelamento.data">
+<remarks/>
+</member>
+<member name="P:Security.Correios.retornoCancelamento.hora">
+<remarks/>
+</member>
+<member name="P:Security.Correios.retornoCancelamento.msg_erro">
+<remarks/>
+</member>
+<member name="P:Security.Correios.retornoCancelamento.objeto_postal">
+<remarks/>
+</member>
+<member name="T:Security.Correios.objetoSimplificado">
+<remarks/>
+</member>
+<member name="P:Security.Correios.objetoSimplificado.datahora_cancelamento">
+<remarks/>
+</member>
+<member name="P:Security.Correios.objetoSimplificado.numero_pedido">
+<remarks/>
+</member>
+<member name="P:Security.Correios.objetoSimplificado.numero_pedidoSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.objetoSimplificado.status_pedido">
+<remarks/>
+</member>
+<member name="T:Security.Correios.tipoBloqueio">
+<remarks/>
+</member>
+<member name="F:Security.Correios.tipoBloqueio.FRAUDE_BLOQUEIO">
+<remarks/>
+</member>
+<member name="F:Security.Correios.tipoBloqueio.EXTRAVIO_VAREJO_PRE_INDENIZADO">
+<remarks/>
+</member>
+<member name="F:Security.Correios.tipoBloqueio.EXTRAVIO_VAREJO_POS_INDENIZADO">
+<remarks/>
+</member>
+<member name="F:Security.Correios.tipoBloqueio.EXTRAVIO_CORPORATIVO">
+<remarks/>
+</member>
+<member name="F:Security.Correios.tipoBloqueio.INTERNACIONAL_LDI">
+<remarks/>
+</member>
+<member name="T:Security.Correios.acao">
+<remarks/>
+</member>
+<member name="F:Security.Correios.acao.DEVOLVIDO_AO_REMETENTE">
+<remarks/>
+</member>
+<member name="F:Security.Correios.acao.ENCAMINHADO_PARA_REFUGO">
+<remarks/>
+</member>
+<member name="F:Security.Correios.acao.REINTEGRADO_E_DEVOLVIDO_AO_REMETENTE">
+<remarks/>
+</member>
+<member name="F:Security.Correios.acao.DESBLOQUEADO">
+<remarks/>
+</member>
+<member name="T:Security.Correios.mensagemParametrizadaTO">
+<remarks/>
+</member>
+<member name="P:Security.Correios.mensagemParametrizadaTO.mensagem">
+<remarks/>
+</member>
+<member name="P:Security.Correios.mensagemParametrizadaTO.tipo">
+<remarks/>
+</member>
+<member name="P:Security.Correios.mensagemParametrizadaTO.tipoSpecified">
+<remarks/>
+</member>
+<member name="P:Security.Correios.mensagemParametrizadaTO.titulo">
+<remarks/>
+</member>
+<member name="T:Security.Correios.tipoMensagem">
+<remarks/>
+</member>
+<member name="F:Security.Correios.tipoMensagem.A">
+<remarks/>
+</member>
+<member name="F:Security.Correios.tipoMensagem.E">
+<remarks/>
+</member>
+<member name="F:Security.Correios.tipoMensagem.S">
+<remarks/>
+</member>
+</members>
+</doc>
